@@ -1,0 +1,6 @@
+{
+  "name": "Finance Tracker",
+  "description": "Smart personal finance manager with automated receipt OCR, budget visualizations, and overspending notification alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
